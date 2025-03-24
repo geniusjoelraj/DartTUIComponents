@@ -11,3 +11,7 @@ on the terminal and run
 `
   dart run
 `
+
+## Output
+
+<img src="./assets/checklist.png" />
