@@ -1,4 +1,13 @@
-# Component based model to render and interact with terminal based text inputs and checkboxes
+# Component based model to render and interact with terminal based text inputs and checkboxes (Sample Project)
 
-Created a menu component which takes a list as input and creates an interactive menu and when a menu item is pressed then it is printed and when exit is pressed it exits the appliation. 
+Created a checklist component where you have to pass the list of items as a list to create a checklist object. display object is a function which displays the checklist.
 
+# How to run
+run 
+`
+  dart pub add dart_console
+`
+on the terminal and run
+`
+  dart run
+`
