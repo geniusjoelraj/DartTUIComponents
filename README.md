@@ -15,3 +15,4 @@ on the terminal and run
 ## Output
 
 <img src="./assets/checklist.png" />
+
